@@ -16,6 +16,9 @@ Contents:
 - Column 1-2: Gregorian calendar  Year-Month
 - Column 3: predicted sunspot numbers 
 
+We compare with observational data provided by https://www.sidc.be/silso/datafiles
+(`SN_ms_tot_V2.0.csv` is available in the `doc/` folder)
+
 ### Specific time intervals
 
 | Date period    |      Reference  |
