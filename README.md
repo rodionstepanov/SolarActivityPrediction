@@ -25,6 +25,8 @@ Contents:
 |2021/10—        | monthly forecast during the project |
 
 ## Prediction Accuracy Analysis (plots)
+We compare our forecast with observational data provided by https://www.sidc.be/silso/datafiles
+(`SN_ms_tot_V2.0.csv` is available in the `doc/` folder).
 
 * Actual forecast
 
