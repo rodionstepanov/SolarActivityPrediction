@@ -51,4 +51,7 @@ We compare our forecast with observational data provided by https://www.sidc.be/
 * Residual between the predicted and the observed sunspots number for different forecast depths (`m` - months ahead)
 ![plot](./figs/fig3.png)
 
+* Standart deviation of the residual between the predicted and the observed sunspots number for different forecast depths (`m` - months ahead)
+![plot](./figs/fig4.png)
+
 > The project is supported by the Russian Science Foundation (grant No.21-72-20067).
