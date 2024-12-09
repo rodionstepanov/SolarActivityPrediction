@@ -42,7 +42,7 @@ We compare our forecast with observational data provided by https://www.sidc.be/
 
 * Forecast data in table form. Each column is for the date of predicted 13-months running average sunspot number (-6 months from the date of the given forecast). Each raw is for the date when the solar activity was predicted  
 
-![plot](./figs/fig22.png)
+![plot](./figs/fig2.png)
 
 * All forecasts curves
 
